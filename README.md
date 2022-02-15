@@ -1,4 +1,4 @@
 # Trafalgar Landing Page
 
-- Bitirdiyim muddet:2 gun
-- Istifade etdiyim texnologiyalar:HTML,CSS,SASS
+- Bitirdiyim muddet: 2 gun
+- İstifade etdiyim texnologiyalar:HTML,CSS,SASS
